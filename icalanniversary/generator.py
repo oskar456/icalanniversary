@@ -53,8 +53,3 @@ def main():
         print(event.to_ical())
 
 
-
-
-
-
-
